@@ -11,6 +11,8 @@ def isUnique(s):
         letters.add(c)
     return True
             
+def isUniqueAlgorithm(s):
+    chars = list(s)
     
 
 
