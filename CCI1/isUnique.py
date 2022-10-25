@@ -94,4 +94,4 @@ if __name__ == "__main__":
     print(isUnique("!helo!"))
     print(isUniqueAlgorithm("abc"))
     print(isUniqueAlgorithm("!helo!"))
-    print(isUniqueBitVector("!helo!"))
+    print(isUniqueBitVector("!helo!"))  
