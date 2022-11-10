@@ -1,4 +1,4 @@
-def eventualSafeNodes(self, graph)
+def eventualSafeNodes(self, graph):
         def dfs(u):
             if u in safe:
                 return safe[u]
